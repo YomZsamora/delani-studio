@@ -1,0 +1,18 @@
+.landing{
+    background-image: url('../img/back-pic1.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top:17%; 
+    font-family: 'Gabriela', serif;
+    /* padding-bottom:5%; */
+  }
+  .us {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top:40px;
+    font-family: 'Copse', serif;
+    background-image: none;
+  }
