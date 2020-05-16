@@ -9,10 +9,20 @@
     font-family: 'Gabriela', serif;
     /* padding-bottom:5%; */
   }
-  .us {
+  .about{
     text-align: center;
     padding-bottom: 30px;
     padding-top:40px;
     font-family: 'Copse', serif;
     background-image: none;
+  }
+  .services{
+    text-align: center;
+    background-image: url("../img/back-pic2.jpg");
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Copse', serif;
+    font-size: 18px;
   }
