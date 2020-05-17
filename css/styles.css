@@ -9,12 +9,29 @@
     font-family: 'Gabriela', serif;
     /* padding-bottom:5%; */
   }
+  .landing p{
+    padding: 2px;
+  }
+  #logo{
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 70px;
+    height: 70px;
+  }
+  .mouse-click{
+    padding-top: 15px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
   .about{
     text-align: center;
     padding-bottom: 30px;
     padding-top:40px;
     font-family: 'Copse', serif;
     background-image: none;
+  }
+  #about{
+    font-family: sans-serif;
   }
   .services{
     text-align: center;
@@ -24,7 +41,22 @@
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Copse', serif;
-    font-size: 18px;
+    font-size: 20px;
+  }
+  .services h2{
+    font-family: sans-serif;
+  }
+  #servicesoverlay{
+    padding-top: 10%;
+    padding-bottom: 10;
+  }
+  .what-we-do .headings{
+    padding-bottom: 40px;
+  }
+  .what-we-do{
+    font-family: 'Quattrocento', serif;
+    text-align: center;
+    padding-top: 38px;
   }
   .container{
     font-family: 'Quattrocento', serif;
