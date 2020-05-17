@@ -48,3 +48,11 @@
     padding-top:40px;
     font-family: 'Gabriela', serif;
   }
+  .contact{
+    background-image: url('../img/back-pic3.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    /* text-align: center; */
+  }
