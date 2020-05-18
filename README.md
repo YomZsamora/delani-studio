@@ -8,11 +8,11 @@
 <p>Delani studio is a world class studio for start-ups and business in Kenya. We offer services of  design, product development and product management. This studio is designed using jQuery, javascript, html technologies.</p>
 
 <h3>Live link</h3>
-<p>..........</p>
+<p> https://jackoyugi.github.io/delani-studio/</p>
 
 <h2>Technologies Used<h2>
 <ul>
-  <li>JQuery<li>
+  <li a=href "JQuery"><li>
   <li>Javascript<li>
   <li>Bootsrap<li>
   <li>CSS<li>
