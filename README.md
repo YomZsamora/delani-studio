@@ -12,7 +12,7 @@
 
 <h2>Technologies Used<h2>
 <ul>
-  <li a=href "JQuery"><li>
+  <li>JQuary<li>
   <li>Javascript<li>
   <li>Bootsrap<li>
   <li>CSS<li>
