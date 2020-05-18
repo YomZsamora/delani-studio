@@ -1,6 +1,6 @@
 <h1>DelaniStudio</h1>
 
-<h2>Authord</h2>
+<h2>Author</h2>
 
 <h4>Jack Oyugi</h4>
 
